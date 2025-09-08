@@ -1,0 +1,912 @@
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Komate</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+           <link rel="icon" href="https://komate.saramin.co.kr/icon.ico" />
+  </head>
+  <body style="margin: 0">
+    <table
+      width="100%"
+      border="0"
+      cellspacing="0"
+      cellpadding="0"
+      style="display: flex; justify-content: center; margin: 0; background-color: #f7f8fa"
+    >
+      <tr>
+        <td>
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td
+                class="logo_wrapper"
+                style="width: 100%; height: 20px; padding: 60px 24px 32px 0px"
+              >
+                <img
+                  src="http://www.saraminimage.co.kr/event/contents/2019interview/KoMate_logo.png"
+                  alt="logo"
+                />
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table
+            width="600"
+            border="0"
+            cellspacing="0"
+            cellpadding="0"
+            style="
+              padding: 40px 28px;
+              margin: 0;
+              background-color: #2469ff;
+              font-family: Pretendard;
+            "
+          >
+            <tr>
+              <td>
+                <table
+                  border="0"
+                  cellpadding="0"
+                  cellspacing="0"
+                  width="544"
+                  id="shadowWrapper"
+                  style="
+                    box-shadow:
+                      0px 6px 12px 0px rgba(28, 29, 31, 0.12),
+                      0px 4px 8px 0px rgba(28, 29, 31, 0.04),
+                      0px 0px 4px 0px rgba(28, 29, 31, 0.08);
+                  "
+                >
+                  <tr>
+                    <td>
+                      <table
+                        class="shadow_wrapper"
+                        border="0"
+                        cellpadding="0"
+                        cellspacing="0"
+                        width="544"
+                        style=""
+                      >
+                        <tr>
+                          <td>
+                            <table
+                              class="wrapper"
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              width="544"
+                              style="
+                                background-color: #ffffff;
+                                border-radius: 2px 2px 0px 0px;
+                              "
+                            >
+                              <tr>
+                                <td class="title">
+                                  <img
+                                    src="https://www.saraminimage.co.kr/sri/komate/koletter/slice_1.png"
+                                    alt="newletter"
+                                    style="width: 544px"
+                                  />
+                                </td>
+                              </tr>
+                              <tr>
+                                <table
+                                  class="button_wrapper"
+                                  width="100%"
+                                  border="0"
+                                  cellspacing="0"
+                                  cellpadding="0"
+                                  style="
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content: center;
+                                    background-color: #ffffff;
+                                    padding: 40px 0px 0px 0px;
+                                  "
+                                >
+                                                                      <tr>
+                                    <td
+                                      class="button"
+                                      style="
+                                        display: flex;
+                                        align-items: center;
+                                        border-radius: 16px;
+                                        background-color: #e7f0ff;
+                                        font-size: 20px;
+                                        font-style: normal;
+                                        font-weight: 800;
+                                        line-height: 150%;
+                                        letter-spacing: 0px;
+                                        text-align: center;
+                                        padding: 12px 16px 12px 24px;
+                                      "
+                                    >
+                                      <a
+                                        href="https://fifth-spectrum-432.notion.site/KoLetter-22c7ba8859858054941eebf481d0ce93"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        style="
+                                          color: #000000;
+                                          text-decoration: none;
+                                          padding: 0px 4px 0px 0px;
+                                        "
+                                      >
+                                        지난 KoLetter 읽기 >
+                                      </a>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </tr>
+                            </table>
+                              
+                            <table
+                              class="wrapper"
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              width="544"
+                              style="
+                                padding: 60px 24px 0px 24px;
+                                color: #000000;
+                                background-color: #ffffff;
+                              "
+                            >
+                              <tr>
+                                <td
+                                  class="devider"
+                                  style="height: 1px; background-color: #2469FF;"
+                                ></td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="title"
+                                  style="
+                                    padding: 12px 0px 28px 0px;
+                                    font-size: 24px;
+                                    font-weight: 800;
+                                    line-height: 150%;
+                                    color: #2469FF;
+                                  "
+                                >
+                                  Today's KoLetter Summary
+                                </td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="summary"
+                                  style="
+                                    white-space: nowrap;
+                                    vertical-align: top;
+                                    font-weight: 400;
+                                    font-size: 18px;
+                                    line-height: 170%;
+                                    color: #1c1d1f;
+                                  "
+                                >
+                                  <span class="highlight" style="font-weight: 800"
+                                    >[Real Q, Pro A]</span
+                                  >
+                                  꼭 '외국인 지원 가능' 공고에만 지원해야 할까?
+                                </td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="summary"
+                                  style="
+                                    white-space: nowrap;
+                                    vertical-align: top;
+                                    font-weight: 400;
+                                    font-size: 18px;
+                                    line-height: 170%;
+                                    color: #1c1d1f;
+                                  "
+                                >
+                                  <span class="highlight" style="font-weight: 800"
+                                    >[Weekly Brief]</span
+                                  >
+                                  유학생 웰컴데이 ‘함께 시작하는 서울 생활’
+                                </td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="summary"
+                                  style="
+                                    white-space: nowrap;
+                                    vertical-align: top;
+                                    font-weight: 400;
+                                    font-size: 18px;
+                                    line-height: 170%;
+                                    color: #1c1d1f;
+                                  "
+                                >
+                                  <span class="highlight" style="font-weight: 800"
+                                    >[Job Picks]</span
+                                  >
+                                  이번 주 인기 채용 공고
+                                </td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="summary"
+                                  style="
+                                    white-space: nowrap;
+                                    vertical-align: top;
+                                    font-weight: 400;
+                                    font-size: 18px;
+                                    line-height: 170%;
+                                    color: #1c1d1f;
+                                  "
+                                >
+                                  <span class="highlight" style="font-weight: 800"
+                                    >[KoMate Now]</span
+                                  >
+                                  한국에서 기업을 선택하는 기준 : 외국인 인터뷰
+                                </td>
+                              </tr>
+                            </table>
+                            <table
+                              class="wrapper"
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              width="544"
+                              style="
+                                padding: 60px 24px 0px 24px;
+                                color: #000000;
+                                background-color: #ffffff;
+                              "
+                            >
+                              <tr>
+                                <td
+                                  class="devider"
+                                  style="height: 1px; background-color: #2469FF"
+                                ></td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="title"
+                                  style="
+                                    padding: 12px 0px 28px 0px;
+                                    font-size: 24px;
+                                    font-weight: 800;
+                                    line-height: 150%;
+                                    color: #2469FF;
+                                  "
+                                >
+                                  Real Q, Pro A
+                                </td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="subtitle"
+                                  style="
+                                    padding: 0px 0px 20px 0px;
+                                    vertical-align: top;
+                                    font-size: 18px;
+                                    line-height: 150%;
+                                    color: #1c1d1f;
+                                    font-weight: 700;
+                                  "
+                                >
+                                  외국인은 꼭 '외국인 지원 가능' 공고에만 지원해야 할까?	<br />
+                                  
+</td>
+</tr>
+<tr>
+<td
+  class="content"
+  style="
+    vertical-align: top;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #1c1d1f;
+  "
+>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="content"
+                                  style="
+                                    vertical-align: top;
+                                    font-weight: 400;
+                                    font-size: 16px;
+                                    line-height: 150%;
+                                    color: #1c1d1f;
+                                  "
+                                >
+                                 공고에 ‘외국인 지원 가능’이라는 문구가 따로 없어도 <strong>지원은 가능해요.</strong> 다만 중요한 건 <strong>그 직무와 업종이 외국인에게 비자가 발급될 수 있는 분야인지 여부</strong>예요.
+ <br /><br />
+
+                                   실제로 <strong>서류 검토를 할 때는 지원자의 전공·경력 등이 해당 직종의 비자 요건을 충족하는지 그리고 기업이 외국인 채용에 필요한 허가와 고용 여건을 갖추고 있는지를 함께 확인</strong>합니다. 반대로 법적으로 외국인 채용이 불가능한 업종이라면 아쉽지만 서류 검토 대상이 되기 어려워요. 
+<br /><br />
+                                    정리하면 <strong>비자가 발급 가능한 직무와 업종이고 지원자 본인이 그 비자 요건을 갖추고 있다면</strong> ‘외국인 지원 가능’ 문구가 없어도 서류 검토는 충분히 진행돼요.<br /><br />
+
+                                    
+                                    
+                                  <span style="display: block; text-align: right; font-weight: 700;">(전) SK 계열사 채용담당자 </span
+                                  >
+                                </td>
+                              </tr>
+                            </table>
+                            <table
+                              class="wrapper"
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              width="544"
+                              style="
+                                padding: 60px 24px 0px 24px;
+                                color: #000000;
+                                background-color: #ffffff;
+                              "
+                            >
+                              <tr>
+                                <td
+                                  class="devider"
+                                  style="height: 1px; background-color: #2469FF"
+                                ></td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="title"
+                                  style="
+                                    padding: 12px 0px 28px 0px;
+                                    font-size: 24px;
+                                    font-weight: 800;
+                                    line-height: 150%;
+                                    color: #2469FF;
+                                  "
+                                >
+                                  Weekly Brief
+                                </td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="content"
+                                  style="
+                                    vertical-align: top;
+                                    font-weight: 400;
+                                    font-size: 16px;
+                                    line-height: 150%;
+                                    color: #1c1d1f;
+                                  "
+                                >
+                                  <span style="font-weight: 700"
+                                    >서울 유학생 웰컴데이 ‘함께 시작하는 서울 생활’</span>
+                                  <br />
+                                  서울시가 국내외 유학생들을 위한 특별한 행사 ‘2025 서울시 유학생 웰컴데이’를 개최한다고 해요. 유학생들이 서로 교류하고 서울 생활에 필요한 유용한 정보를 얻을 수 있도록 마련된 자리인데요. <br /><br />
+                                   단순한 네트워킹을 넘어 새로운 친구를 사귀고 서울을 더 깊이 이해할 수 있는 기회가 될 거예요. 행사에서는 다양한 프로그램을 통해 유학생들이 직접 경험을 나누고 서울에서 생활할 때 꼭 필요한 정보도 함께 제공된다고 해요.
+ <br /><br />
+                                    이번 웰컴데이는 10월에 열리며 서울시 소재 대학에 재학 중인 국내외 유학생이라면 누구나 사전 신청을 통해 참여할 수 있다고 해요.
+                                 <br /><br />
+                                    <strong>- 모집 기간 : 9월 5일 (금) ~ 9월 22일 (월)<br />
+                                    - 지원 방법 : 서울외국인포털 - 신청폼 작성
+                                    <br />
+                                   - 행사 일정 : 10월 2일 (목) 10 AM ~17:30 PM</strong><br /> 
+
+<br />
+                                    <span style="font-size: 12px; color: #888888;">출처 - 서울외국인포털</span>   
+                                </td>
+                              </tr>
+                            </table>
+                            <table
+                              class="wrapper"
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              width="544"
+                              style="
+                                padding: 60px 24px 0px 24px;
+                                color: #000000;
+                                background-color: #ffffff;
+                              "
+                            >
+                              <tr>
+                                <td
+                                  class="devider"
+                                  style="height: 1px; background-color: #2469FF"
+                                ></td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="title"
+                                  style="
+                                    padding: 12px 0px 28px 0px;
+                                    font-size: 24px;
+                                    font-weight: 800;
+                                    line-height: 150%;
+                                    color: #2469FF;
+                                  "
+                                >
+                                  Job Picks
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <table
+                                    class="job_table"
+                                    cellspacing="12"
+                                    style="
+                                      table-layout: fixed;
+                                      width: 100%;
+                                      font-size: 16px;
+                                    "
+                                  >
+                                    <tr>
+                                      <td
+                                        width="50%"
+                                        style="
+                                          border: 1px solid #e1e6f0;
+                                          border-radius: 12px;
+                                          padding: 18px;
+                                        "
+                                      >
+                                        <table class="job_item" style="width: 100%;">
+                                          <tr>
+                                            <td style="font-weight: 800">
+                                              큐티에이아이랩
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td style="padding: 0px 0px 10px 0px">
+                                              백엔드 개발자 모집 (~10/02)
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td
+                                              class="apply_button"
+                                              style="
+                                                border-radius: 12px;
+                                                padding: 12px;
+                                                background-color: #e1e6f0;
+                                                color: #17202e;
+                                                text-align: center;
+                                                font-weight: 800;
+                                                line-height: 150%;
+                                              "
+                                            >
+                                              <a
+                                                href="https://komate.saramin.co.kr/recruits/51723441"
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                style="
+                                                  color: #000000;
+                                                  text-decoration: none;
+                                                "
+                                              >
+                                                지원하기
+                                              </a>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                      <td
+                                        width="50%"
+                                        style="
+                                          border: 1px solid #e1e6f0;
+                                          border-radius: 12px;
+                                          padding: 18px;
+                                        "
+                                      >
+                                        <table class="job_item" style="width: 100%;">
+                                          <tr>
+                                            <td style="font-weight: 800">핀샷</td>
+                                          </tr>
+                                          <tr>
+                                            <td style="padding: 0px 0px 10px 0px">
+                                              국내 거주 국가별 외국인 마케터 (~9/21)
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td
+                                              class="apply_button"
+                                              style="
+                                                border-radius: 12px;
+                                                padding: 12px;
+                                                background-color: #e1e6f0;
+                                                color: #17202e;
+                                                text-align: center;
+                                                font-weight: 800;
+                                                line-height: 150%;
+                                              "
+                                            >
+                                              <a
+                                                href="https://komate.saramin.co.kr/recruits/51745365"
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                style="
+                                                  color: #000000;
+                                                  text-decoration: none;
+                                                "
+                                              >
+                                                지원하기
+                                              </a>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td
+                                        width="50%"
+                                        style="
+                                          border: 1px solid #e1e6f0;
+                                          border-radius: 12px;
+                                          padding: 18px;
+                                        "
+                                      >
+                                        <table class="job_item" style="width: 100%;">
+                                          <tr>
+                                            <td style="font-weight: 800">
+엠케이성진</td>
+                                          </tr>
+                                          <tr>
+                                            <td style="padding: 0px 0px 10px 0px">
+                                              해외무역,해외영업(중국어 우대) (~9/19)
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td
+                                              class="apply_button"
+                                              style="
+                                                border-radius: 12px;
+                                                padding: 12px;
+                                                background-color: #e1e6f0;
+                                                color: #17202e;
+                                                text-align: center;
+                                                font-weight: 800;
+                                                line-height: 150%;
+                                              "
+                                            >
+                                              <a
+                                                href="https://komate.saramin.co.kr/recruits/51608273"
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                style="
+                                                  color: #000000;
+                                                  text-decoration: none;
+                                                "
+                                              >
+                                                지원하기
+                                              </a>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                      <td
+                                        width="50%"
+                                        style="
+                                          border: 1px solid #e1e6f0;
+                                          border-radius: 12px;
+                                          padding: 18px;
+                                        "
+                                      >
+                                        <table class="job_item" style="width: 100%;">
+                                          <tr>
+                                            <td style="font-weight: 800">바른행정</td>
+                                          </tr>
+                                          <tr>
+                                            <td style="padding: 0px 0px 10px 0px">
+                                              베트남 고객 관리 및 마케팅 (~10/25)
+                                            </td>
+                                          </tr>
+                                          <tr>
+                                            <td
+                                              class="apply_button"
+                                              style="
+                                                border-radius: 12px;
+                                                padding: 12px;
+                                                background-color: #e1e6f0;
+                                                color: #17202e;
+                                                text-align: center;
+                                                font-weight: 800;
+                                                line-height: 150%;
+                                              "
+                                            >
+                                              <a
+                                                href="https://komate.saramin.co.kr/recruits/51654866"
+                                                target="_blank"
+                                                rel="noopener noreferrer"
+                                                style="
+                                                  color: #000000;
+                                                  text-decoration: none;
+                                                "
+                                              >
+                                                지원하기
+                                              </a>
+                                            </td>
+                                          </tr>
+                                        </table>
+                                      </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                            <table
+                              class="wrapper"
+                              border="0"
+                              cellpadding="0"
+                              cellspacing="0"
+                              width="544"
+                              style="
+                                padding: 60px 24px 28px 24px;
+                                color: #000000;
+                                background-color: #ffffff;
+                                border-radius: 0px 0px 2px 2px;
+                              "
+                            >
+                              <tr>
+                                <td
+                                  class="devider"
+                                  style="height: 1px; background-color: #2469FF"
+                                ></td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="title"
+                                  style="
+                                    padding: 12px 0px 28px 0px;
+                                    font-size: 24px;
+                                    font-weight: 800;
+                                    line-height: 150%;
+                                    color: #2469FF;
+                                  "
+                                >
+                                 KoMate Now
+                                </td>
+                              </tr>
+                              <tr>
+                                <td style="padding: 0px 0px 20px 0px">
+                                  <img
+                                    src="http://www.saraminimage.co.kr/event/contents/2019interview/komate_contents.png"
+                                    alt="newletter"
+                                    style="width: 100%"
+                                  />
+                                </td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="content"
+                                  style="
+                                    vertical-align: top;
+                                    font-weight: 400;
+                                    font-size: 16px;
+                                    line-height: 150%;
+                                    color: #1c1d1f;
+                                  "
+                                >
+                                  <strong> 한국에서 기업을 선택하는 기준 [KoMate 외국인 인터뷰]</strong><br /><br />
+                                
+<strong>Q. 한국 기업 선택 시 중요한 기준이 있었다면 공유해 주세요.</strong><br />
+저는 회사를 선택할 때 그 회사가 제 비자(E-7)를 발급해 줄 수 있는 업태 코드를 가지고 있는지를 먼저 확인했어요. 아무리 회사랑 저랑 서로 잘 맞고 함께 일하고 싶어도 출입국에서는 E-7 비자 요건에 맞는 업종(업태) 코드가 아니면 인정해 주지 않거든요. 그러다 보니 제가 맡게 될 업무가 그 회사의 업태랑 실제로 잘 맞는지가 중요하더라고요. 그리고 또 하나는 외국인 직원을...
+<br /><br />
+                                
+
+                                </td>
+                              </tr>
+                              <tr>
+                                <td
+                                  class="more_button"
+                                  style="
+                                    padding: 16px 0px 0px 0px;
+                                    vertical-align: top;
+                                    font-weight: 800;
+                                    font-size: 16px;
+                                    line-height: 150%;
+                                    color: #1c1d1f;
+                                  "
+                                >
+                                  <a
+                                    href="https://career.saramin.co.kr/feed/view/92458"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    style="
+                                      display: flex;
+                                      align-items: center;
+                                      justify-content: end;
+                                      color: #000000;
+                                      text-decoration: none;
+                                    "
+                                  >
+                                    인터뷰 보러가기 >
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+                      <table
+                        class="wrapper"
+                        border="0"
+                        cellpadding="0"
+                        cellspacing="0"
+                        width="544"
+                        style="
+                          padding: 32px 0px 0px 0px;
+                          color: #000000;
+                          border-radius: 0px 0px 2px 2px;
+                        "
+                      >
+                        <tr>
+                          <td
+                            style="
+                              color: #ffffff;
+                              font-size: 26px;
+                              font-weight: 800;
+                              line-height: 150%;
+                              text-align: center;
+                            "
+                          >
+                            오늘 KoLetter 어땠나요?
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            style="
+                              color: #ffffff;
+                              font-size: 22px;
+                              font-weight: 400;
+                              line-height: 150%;
+                              text-align: center;
+                              padding: 0px 0px 24px 0px;
+                            "
+                          >
+                            좋았던 점, 아쉬웠던 점 혹은 궁금한 질문이 있다면 <br />
+                            언제든 피드백을 남겨주세요.
+                          </td>
+                        </tr>
+                        <tr>
+                          <td
+                            style="
+                              display: flex;
+                              align-items: center;
+                              justify-content: center;
+                              background-color: #000000;
+                              font-size: 24px;
+                              font-weight: 800;
+                              line-height: 150%;
+                              padding: 20px 0px;
+                              border-radius: 12px;
+                            "
+                          >
+                            <a
+                              class="feedback_button"
+                              href="https://docs.google.com/forms/d/e/1FAIpQLSdTgXt-l-mWnPiKHo8z9UiPxH6ntcpLdfnaIoPdThwfE9J-ew/viewform"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              style="text-decoration: none; color: #ffffff"
+                            >
+                              피드백 남기기
+                            </a>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <table
+                  class="footer"
+                  width="100%"
+                  border="0"
+                  cellspacing="0"
+                  cellpadding="0"
+                  style="
+                    max-width: 600px;
+                    min-width: 360px;
+                    padding: 24px 0px 60px 0px;
+                    color: #383a3d;
+                    font-size: 11px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 150%;
+                    letter-spacing: -0.33px;
+                  "
+                >
+                  <tr>
+                    <td style="padding: 0px 0px 4px 0px; color: #6e7578; font-size: 11px">
+                      You are receiving this email because you agreed to receive emails as
+                      of Sep 10, 2025. <br />
+                      If you no longer wish to receive emails, please
+                      <em style="font-style: normal; font-weight: 700"
+                        ><a
+                          style="color: inherit; text-decoration: none"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          href="http://www.saramin.co.kr/zf_user/help/mail/reject?key=%5b$_REJECT_KEY_$%5d"
+                        >
+                          click here
+                        </a></em
+                      >
+                    </td>
+                  </tr>
+                  <tr>
+                    <td
+                      style="
+                        padding: 0px 0px 12px 0px;
+                        color: #6e7578;
+                        font-size: 11px;
+                        border-bottom: 1px solid #e6e7e8;
+                      "
+                    >
+                      회원님은 2025/09/10 현재 메일수신에 동의하셨기에 본 메일을
+                      발송합니다. <br />
+                      추후 메일 수신을 원하지 않으시면 여기
+                      <em style="font-style: normal; font-weight: 700"
+                        ><a
+                          style="color: inherit; text-decoration: none"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          href="http://www.saramin.co.kr/zf_user/help/mail/reject?key=%5b$_REJECT_KEY_$%5d"
+                        >
+                          [수신거부]
+                        </a></em
+                      >를 클릭하여 주시기 바랍니다.
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding: 5px 0px 8px 0px; font-size: 11px">
+                    
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="font-size: 11px">Saramin Co., Ltd.</td>
+                  </tr>
+                  <tr>
+                    <td style="font-size: 11px">CEO : Hyeon-Soon Hwang</td>
+                  </tr>
+                  <tr>
+                    <td style="font-size: 11px">
+                      11F, C-dong, 165 Gonghang-daero, Gangseo-gu, Seoul, Republic of
+                      Korea (one grove, Magok-dong)
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="font-size: 11px">
+                      Customer Service : +82-2-6226-5000 / help@saramin.co.kr (Weekdays
+                      09:00-18:00, Closed on weekends and public holidays)
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="font-size: 11px">
+                      Business Registration Number : 113-86-00917
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="font-size: 11px">
+                      Job Information Provider Permit : Seoul Gwanak No. 2005-6
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="font-size: 11px">
+                      Mail Order Business Registration No. : 2025-Seoul-Gangseo-0847
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="font-size: 11px">
+                      Copyright (c) Saramin Co., Ltd. All rights reserved.
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
